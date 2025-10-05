@@ -1,2 +1,3 @@
 Git – ćwiczenie 5
 Zmodyfikuj pliki lokalnie, dodaj nowe commity i ponownie wykonaj git push. Zobaczysz zmiany na swoim zdalnym repozytorium.
+Zaloguj się na swoją platformę hostingową i zobacz swój projekt online.
