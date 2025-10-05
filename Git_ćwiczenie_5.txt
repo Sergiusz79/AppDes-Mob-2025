@@ -1,0 +1,2 @@
+Git – ćwiczenie 5
+Zmodyfikuj pliki lokalnie, dodaj nowe commity i ponownie wykonaj git push. Zobaczysz zmiany na swoim zdalnym repozytorium.
